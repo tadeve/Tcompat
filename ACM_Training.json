@@ -1,0 +1,32 @@
+{
+	"P0" : {
+		"Contest-1" : [[1, 1, 1, 1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=16280"],
+		"Contest-2" : [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=16942"],
+		"Contest-3" : [[1, 1, 1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=17127"],
+		"Contest-4" : [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=17234"],
+		"Contest-5" : [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=17529"],
+		"Contest-6" : [[1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=17752"]
+	},
+	"P1" : {
+		"Contest-1": [[1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=19560"],
+		"Contest-2": [[1, 1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=19622"],
+		"Contest-3": [[1, 1, 1, 1, 1, 1, 1],"https://a2oj.com/contest?ID=19687"],
+		"Contest-4": [[1, 1, 1, 1, 0, 1],"https://a2oj.com/contest?ID=19970"],
+		"Contest-5": [[0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20041"],
+		"Contest-6": [[0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20079"],
+		"Contest-7": [[0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20159"],
+		"Contest-8": [[0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20296"],
+		"Contest-9": [[0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20335"],
+		"Contest-10": [[0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20482"],
+		"Contest-11": [[0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20483"],
+		"Contest-12": [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20831"],
+		"Contest-13": [[0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20895"],
+		"Contest-14": [[0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20970"],
+		"Contest-15": [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=20989"],
+		"Contest-16": [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=21624"],
+		"Contest-17": [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=21704"],
+		"Contest-18": [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=21865"],
+		"Contest-19": [[0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=22086"],
+		"Contest-20": [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],"https://a2oj.com/contest?ID=22087"]
+	}
+}
