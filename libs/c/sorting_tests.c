@@ -1,10 +1,10 @@
-#include "sorting.c"
+#include "sorting/sorting.c"
 #include "helper_functions.c"
 #include <stdio.h>
 void test_insertion_sort() {
   int test_status;
-  FILE *unsorted_data = fopen("./data/unsorted_data", "r");
-  FILE *sorted_data = fopen("./data/sorted_data", "r");
+  FILE *unsorted_data = fopen("./sorting/unsorted_data", "r");
+  FILE *sorted_data = fopen("./sorting/sorted_data", "r");
   int unsorted[1000], sorted[1000], diff[1000];
   for (int i = 0; i < 1000; i++) {
     fscanf(unsorted_data, "%d", &unsorted[i]);
