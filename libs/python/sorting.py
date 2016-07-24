@@ -14,8 +14,11 @@ def insertion_sort(array):
 		# insert key at the correct position in front of the 
 		# first element that is not larger than key 
 		array[j+1] = key
+
 def insertion_sort_test():
 	sorted_data = [int(x) for x in open("./data/sorted_data","r").read().split("\n") if x != '']
 	unsorted_data = [int(x) for x in open("./data/unsorted_data","r").read().split("\n") if x != '']
 	insertion_sort(unsorted_data)
 	assert sorted_data == unsorted_data
+
+def merge(array,idx1,idx2,idx3):
